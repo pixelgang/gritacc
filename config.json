@@ -1,6 +1,6 @@
 ﻿{
 	"id": "com.tarapps.gritty",
-	"version": "1.0",
+	"version": "1.5",
 	"name": "Gritty Philly",
 	"description": "move aroung",
 	"author": "Tran Apps",
@@ -8,7 +8,7 @@
 	"website": "http://www.transapp.com",
 	"fullscreen": "true",
 	"useragent": null,
-	"orientation": "portrait",
+	"orientation": "landscape",
 	"icons": [{
 		"src": "www/icon-256.png",
 		"width": 256,
